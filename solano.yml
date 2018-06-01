@@ -4,5 +4,3 @@ tests:
     output: exit-status
     command: vendor/bin/solano-phpunit
     config: tests/complete.phpunit.xml
-    files:
-      - tests/**Test.php
